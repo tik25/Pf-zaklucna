@@ -8,5 +8,6 @@ Video fili k so prevelki(100MB) za upload:
  
  </ul>
 
-Koncna zadeva: 
-https://www.youtube.com/watch?v=vGv5OP6xUOI&feature=youtu.be
+Koncna zadeva:
+https://www.youtube.com/watch?v=aF-dFDboLx8&t=0s
+(old) https://www.youtube.com/watch?v=vGv5OP6xUOI&feature=youtu.be
